@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Exercise 1 - Ball Board</title>
+</head>
+
+<body onkeyup="onHandleKey(event)" onload="onInitGame()">
+    <!-- Header -->
+	<h1>
+        Collect Those Balls (Neighbors : <span class="neighbors-count">0</span>)
+    </h1>
+	
+    <!-- Counter -->
+    <div class="ball-counter-container">Balls Collected : <span class="ball-counter">0</span></div>
+
+    <!-- Victory Message -->
+    <div class="victory-message">🎉 You Win ! 🎉</div>
+
+	<!-- Table -->
+	<table>
+		<tbody class="board"></tbody>
+	</table>
+
+    <!-- Button -->
+    <button class="restart-btn" onclick="onInitGame()">Restart</button>
+	
+    <!-- Script -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
