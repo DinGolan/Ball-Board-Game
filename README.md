@@ -37,6 +37,7 @@ To play, open `index.html` in your browser.
 ---
 
 ## 🙌 Contributing & Usage 🙌
-Feel free to fork, improve, or customize this game. Great for learning DOM manipulation, event handling, and grid logic.
+Feel free to fork, improve, or customize this game. 
+Great for learning DOM manipulation, event handling, and grid logic.
 
 🎮 Good luck - and collect them all !
