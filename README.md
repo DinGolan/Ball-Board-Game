@@ -12,10 +12,10 @@ To play, open `index.html` in your browser.
 ## 🕹️ How to Play 🕹️
 - Use the **arrow keys** to move the player.
 - Every 5 seconds, a **ball** and **glue** are randomly added to the board.
-- Step on a **ball** to collect it — your goal is to collect them all.
+- Step on a **ball** to collect it - your goal is to collect them all.
 - If you step on **glue**, you get stuck for 3 seconds.
 - **Secret passages** let you wrap around the board (top <-> bottom, left <-> right).
-- Game ends when all balls are collected — then you can restart.
+- Game ends when all balls are collected - then you can restart.
 
 ---
 
